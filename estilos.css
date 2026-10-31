@@ -1,0 +1,43 @@
+ body {
+   background-color: #b3e6ff;
+  }
+ 
+ h1 {
+	 color: #0066cc;
+	 font-family: Arial;
+   }
+ 
+ h2 {
+	 color: #0066cc;
+	 font-family: Arial;
+	 margin-left: 25px;
+   }
+h3 {
+	 color: #0066cc;
+	 font-family: Arial;
+	 margin-left: 15px;
+   }
+   
+ .elenco {
+	 margin-left: 40px;
+   }
+   
+ .diretor {
+	 margin-left: 40px;
+   }
+   
+ .roteiro {
+	 margin-left: 40px;
+   }
+ a {
+	 color: #660033;
+   }
+ .destaque {
+	 background-color: #9999ff;
+     border-left: 10px solid #007399;	
+     }
+ 
+(/*A regra de CSS mais difícil de aplicar foi o destaque, uma vez que no início não tinha colocado uma div e estava a colocar a classe diretamente
+no pagrafrago, o que não estava a resultar. Depois de algumas tentativas percebi que precisava de uma div e ai é que eu colocava a classe.
+ O erro mais comum que detetei esquecer-me de colocar os pontos e vírgulas no final das coisas.
+O src(source ou fonte) serve para indicar ao navegador de onde se deve ir "buscar" algo, como uma imagem, para que seja possível mostra-lo dentro do site*/)
